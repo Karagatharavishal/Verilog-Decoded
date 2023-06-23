@@ -1,4 +1,4 @@
-Module tb;
+module tb;
 //Data type declaration
 reg a,b;
 Wire c;
